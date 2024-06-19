@@ -145,3 +145,13 @@ b
 2chapter3-exercise5/src/main/java/beans/Person.java,8\f\8fb863a473d71f682eb9256b39689722d49aaece
 _
 /chapter3-exercise5/src/main/java/main/Main.java,d\6\d6d2e500a03932795f2e7e360fbd57a1209b4295
+J
+chapter3-exercise6/pom.xml,f\8\f85b787c0c923235f9d46a2d394078e5e3d6f915
+j
+:chapter3-exercise6/src/main/java/config/ProjectConfig.java,f\6\f61de4af3f3dd0511322bedc123e668f67f6f301
+b
+2chapter3-exercise6/src/main/java/beans/Parrot.java,d\4\d430c17af16586aa7dfbb870692ed9470d36ca99
+b
+2chapter3-exercise6/src/main/java/beans/Person.java,6\b\6b68903d6820f9af99bfdb98928f44aa8f3cfc5f
+_
+/chapter3-exercise6/src/main/java/main/Main.java,b\c\bc0f1b6e40312c33a3334e8c9b6e058395f12b86
