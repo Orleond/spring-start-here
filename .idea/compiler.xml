@@ -5,10 +5,17 @@
       <directory url="file://$PROJECT_DIR$/chapter2/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="chapter3-exercise3" />
+        <module name="chapter3-exercise1" />
+        <module name="chapter2-exercise8" />
+        <module name="chapter3-exercise2" />
+        <module name="chapter2-exercise7" />
+        <module name="chapter2-exercise6" />
         <module name="chapter2-exercise5" />
         <module name="chapter2-exercise4" />
         <module name="chapter2-exercise3" />
