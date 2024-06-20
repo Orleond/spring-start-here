@@ -20,17 +20,22 @@
         <module name="chapter2-exercise1" />
         <module name="chapter3-exercise3" />
         <module name="chapter3-exercise4" />
-        <module name="chapter4-exercise6" />
         <module name="chapter3-exercise5" />
         <module name="chapter3-exercise6" />
         <module name="chapter3-exercise1" />
         <module name="chapter3-exercise2" />
-        <module name="chapter4-exercise1" />
+        <module name="chapter5-exercise2" />
+        <module name="chapter5-exercise1" />
+        <module name="chapter5-exercise4" />
+        <module name="chapter5-exercise3" />
         <module name="chapter3-exercise7" />
-        <module name="chapter4-exercise3" />
         <module name="chapter3-exercise8" />
-        <module name="chapter4-exercise2" />
         <module name="chapter3-exercise9" />
+        <module name="chapter4-exercise7" />
+        <module name="chapter4-exercise6" />
+        <module name="chapter4-exercise1" />
+        <module name="chapter4-exercise3" />
+        <module name="chapter4-exercise2" />
         <module name="chapter4-exercise5" />
         <module name="chapter4-exercise4" />
       </profile>
