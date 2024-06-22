@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter5-exercise3/chapter5-exercise3.iml" filepath="$PROJECT_DIR$/chapter5-exercise3/chapter5-exercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-start-here.iml" filepath="$PROJECT_DIR$/spring-start-here.iml" />
     </modules>
   </component>

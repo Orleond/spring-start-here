@@ -22,12 +22,14 @@
         <module name="chapter3-exercise4" />
         <module name="chapter3-exercise5" />
         <module name="chapter3-exercise6" />
+        <module name="chapter5-exercise6" />
+        <module name="chapter5-exercise5" />
         <module name="chapter3-exercise1" />
         <module name="chapter3-exercise2" />
+        <module name="chapter5-exercise7" />
         <module name="chapter5-exercise2" />
         <module name="chapter5-exercise1" />
         <module name="chapter5-exercise4" />
-        <module name="chapter5-exercise3" />
         <module name="chapter3-exercise7" />
         <module name="chapter3-exercise8" />
         <module name="chapter3-exercise9" />
@@ -40,5 +42,8 @@
         <module name="chapter4-exercise4" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter5-exercise3" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
