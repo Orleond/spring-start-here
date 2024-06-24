@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/chapter10-exercise4" />
     <file type="web" url="file://$PROJECT_DIR$/chapter7-exercise1" />
   </component>
   <component name="MavenProjectsManager">
@@ -56,6 +57,13 @@
         <option value="$PROJECT_DIR$/chapter9-exercise1/pom.xml" />
         <option value="$PROJECT_DIR$/chapter9-exercise2/pom.xml" />
         <option value="$PROJECT_DIR$/chapter9-exercise3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-exercise1/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-exercise2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-exercise3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-exercise4/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-exercise5/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-exercise6/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-exercise7/pom.xml" />
       </list>
     </option>
   </component>

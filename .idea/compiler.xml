@@ -10,32 +10,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chapter7-exercise1" />
         <module name="chapter2-exercise8" />
         <module name="chapter2-exercise7" />
+        <module name="chapter10-exercise6" />
         <module name="chapter2-exercise6" />
+        <module name="chapter10-exercise5" />
         <module name="chapter2-exercise5" />
         <module name="chapter2-exercise4" />
+        <module name="chapter10-exercise7" />
         <module name="chapter2-exercise3" />
+        <module name="chapter10-exercise2" />
         <module name="chapter2-exercise2" />
+        <module name="chapter10-exercise1" />
         <module name="chapter2-exercise1" />
-        <module name="chapter3-exercise3" />
-        <module name="chapter3-exercise4" />
-        <module name="chapter3-exercise5" />
-        <module name="chapter3-exercise6" />
+        <module name="chapter10-exercise4" />
+        <module name="chapter10-exercise3" />
         <module name="chapter5-exercise6" />
         <module name="chapter5-exercise5" />
-        <module name="chapter3-exercise1" />
-        <module name="chapter3-exercise2" />
         <module name="chapter5-exercise7" />
         <module name="chapter5-exercise2" />
         <module name="chapter5-exercise1" />
         <module name="chapter5-exercise4" />
-        <module name="chapter3-exercise7" />
-        <module name="chapter3-exercise8" />
-        <module name="chapter3-exercise9" />
-        <module name="chapter8-exercise3" />
-        <module name="chapter8-exercise2" />
         <module name="chapter6-exercise2" />
         <module name="chapter6-exercise3" />
         <module name="chapter6-exercise1" />
@@ -43,22 +38,45 @@
         <module name="chapter6-exercise7" />
         <module name="chapter6-exercise4" />
         <module name="chapter6-exercise5" />
+        <module name="chapter9-exercise1" />
+        <module name="chapter9-exercise2" />
+        <module name="chapter9-exercise3" />
+        <module name="chapter7-exercise1" />
+        <module name="chapter3-exercise3" />
+        <module name="chapter3-exercise4" />
+        <module name="chapter3-exercise5" />
+        <module name="chapter3-exercise6" />
+        <module name="chapter3-exercise1" />
+        <module name="chapter3-exercise2" />
+        <module name="chapter3-exercise7" />
+        <module name="chapter3-exercise8" />
+        <module name="chapter3-exercise9" />
+        <module name="chapter8-exercise3" />
+        <module name="chapter8-exercise2" />
         <module name="chapter8-exercise1" />
         <module name="chapter4-exercise7" />
         <module name="chapter4-exercise6" />
-        <module name="chapter9-exercise1" />
-        <module name="chapter9-exercise2" />
         <module name="chapter4-exercise1" />
-        <module name="chapter9-exercise3" />
         <module name="chapter4-exercise3" />
         <module name="chapter4-exercise2" />
         <module name="chapter4-exercise5" />
         <module name="chapter4-exercise4" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cacaca" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cacaca" options="-parameters" />
+      <module name="chapter10-exercise1" options="-parameters" />
+      <module name="chapter10-exercise2" options="-parameters" />
+      <module name="chapter10-exercise3" options="-parameters" />
+      <module name="chapter10-exercise4" options="-parameters" />
+      <module name="chapter10-exercise5" options="-parameters" />
+      <module name="chapter10-exercise6" options="-parameters" />
+      <module name="chapter10-exercise7" options="-parameters" />
       <module name="chapter7-exercise1" options="-parameters" />
       <module name="chapter8-exercise1" options="-parameters" />
       <module name="chapter8-exercise2" options="-parameters" />
