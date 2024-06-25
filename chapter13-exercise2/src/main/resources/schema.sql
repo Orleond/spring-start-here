@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS account;
+CREATE TABLE account(
+    id SERIAL NOT NULL PRIMARY KEY ,
+    name VARCHAR(50) NOT NULL ,
+    amount DECIMAL(8,2) NOT NULL
+);

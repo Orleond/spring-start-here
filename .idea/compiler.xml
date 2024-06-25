@@ -30,8 +30,10 @@
         <module name="chapter5-exercise5" />
         <module name="chapter5-exercise7" />
         <module name="chapter5-exercise2" />
+        <module name="chapter13-exercise1" />
         <module name="chapter5-exercise1" />
         <module name="chapter5-exercise4" />
+        <module name="chapter13-exercise2" />
         <module name="chapter6-exercise2" />
         <module name="chapter6-exercise3" />
         <module name="chapter6-exercise1" />
@@ -43,6 +45,9 @@
         <module name="chapter9-exercise2" />
         <module name="chapter9-exercise3" />
         <module name="chapter7-exercise1" />
+        <module name="chapter12-exercise3" />
+        <module name="chapter12-exercise2" />
+        <module name="chapter12-exercise1" />
         <module name="chapter3-exercise3" />
         <module name="chapter3-exercise4" />
         <module name="chapter3-exercise5" />
@@ -85,6 +90,11 @@
       <module name="chapter11-exercise2" options="-parameters" />
       <module name="chapter11-exercise3" options="-parameters" />
       <module name="chapter11-payments" options="-parameters" />
+      <module name="chapter12-exercise1" options="-parameters" />
+      <module name="chapter12-exercise2" options="-parameters" />
+      <module name="chapter12-exercise3" options="-parameters" />
+      <module name="chapter13-exercise1" options="-parameters" />
+      <module name="chapter13-exercise2" options="-parameters" />
       <module name="chapter7-exercise1" options="-parameters" />
       <module name="chapter8-exercise1" options="-parameters" />
       <module name="chapter8-exercise2" options="-parameters" />
